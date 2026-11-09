@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.netlify/
+.env
+.env.*
+!.env.local.example
+*.tsbuildinfo
+next-env.d.ts
+test-results/
+playwright-report/
+evidence/private/
+demo-accounts.local.txt
+db-report.html
